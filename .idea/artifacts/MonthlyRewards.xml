@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MonthlyRewards">
+    <output-path>$USER_HOME$/Desktop/Test Minecraft Server/plugins</output-path>
+    <root id="archive" name="MonthlyRewards.jar">
+      <element id="module-output" name="MonthlyRewards" />
+    </root>
+  </artifact>
+</component>

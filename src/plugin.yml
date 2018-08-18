@@ -1,0 +1,10 @@
+name: MonthlyRewards
+version: 1.4
+author: FlameKnight15
+main: me.FlameKnight15.MonthlyRewards.Main
+
+commands:
+  monthlyrewards:
+      description: Main command for Monthly Rewards
+      usage: /mr
+      aliases: [mr]

@@ -1,0 +1,11 @@
+#################Configuration Section#################
+chat-prefix: '&9RisenCloud>'
+
+##DO NOTE CHANGE THIS VALUE OTHERWISE YOUR PLUGIN WILL ACT IN WEIRD WAYS!
+dontTouchThis: false
+#################Kit Section#################
+Commands:
+  VIP:
+   name: '&5VIP'
+   cmds:
+    - spawn {player}
